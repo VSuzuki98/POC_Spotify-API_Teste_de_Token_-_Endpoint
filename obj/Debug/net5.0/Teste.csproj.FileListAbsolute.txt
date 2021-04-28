@@ -1,0 +1,44 @@
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.csprojAssemblyReference.cache
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.AssemblyInfo.cs
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\Teste.exe
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\Teste.deps.json
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\Teste.runtimeconfig.json
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\Teste.runtimeconfig.dev.json
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\ref\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\Teste.pdb
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.csproj.CopyComplete
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\ref\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.pdb
+C:\Users\Victor_Suzuki\Desktop\Teste\obj\Debug\net5.0\Teste.genruntimeconfig.cache
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor_Suzuki\Desktop\Teste\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\Teste.exe
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\Teste.deps.json
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\Teste.runtimeconfig.json
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\Teste.runtimeconfig.dev.json
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\ref\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\Teste.pdb
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.csprojAssemblyReference.cache
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.AssemblyInfo.cs
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.csproj.CopyComplete
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\ref\Teste.dll
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.pdb
+C:\Users\Victor_Suzuki\Desktop\POC_(Spotify API)_Teste_de_Token&Endpoint\obj\Debug\net5.0\Teste.genruntimeconfig.cache

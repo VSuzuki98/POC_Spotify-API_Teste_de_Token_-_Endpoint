@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwUmWKqX8+bvPV98zGFUFUhYXYFRjvIlfVTAXBF81bikZe/90S0XNyC0ZgT+7f9LJtFtomHuQ95LthCkEN41/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor_Suzuki\\Desktop\\POC_(Spotify API)_Teste_de_Token&Endpoint\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor_Suzuki\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\Victor_Suzuki\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Victor_Suzuki\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Victor_Suzuki\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
